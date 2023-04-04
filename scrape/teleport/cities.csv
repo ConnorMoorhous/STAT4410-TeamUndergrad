@@ -1,0 +1,718 @@
+,location,city,state
+0,"Aberdeen Proving Ground, MD",Aberdeen Proving Ground, MD
+1,"Abingdon, MD",Abingdon, MD
+2,"Alameda, CA",Alameda, CA
+3,"Albany, NY",Albany, NY
+4,"Albuquerque, NM",Albuquerque, NM
+5,"Alexandria, VA",Alexandria, VA
+6,"Aliso Viejo, CA",Aliso Viejo, CA
+7,"Allen Park, MI",Allen Park, MI
+8,"Allen, TX",Allen, TX
+9,"Allentown, PA",Allentown, PA
+10,"Alpharetta, GA",Alpharetta, GA
+11,"American Fork, UT",American Fork, UT
+12,"Ames, IA",Ames, IA
+13,"Amsterdam, NY",Amsterdam, NY
+14,"Anaheim, CA",Anaheim, CA
+15,"Andover, MA",Andover, MA
+16,"Ann Arbor, MI",Ann Arbor, MI
+17,"Annandale, VA",Annandale, VA
+18,"Annapolis Junction, MD",Annapolis Junction, MD
+19,"Annapolis, MD",Annapolis, MD
+20,"Antioch, TN",Antioch, TN
+21,"Archbald, PA",Archbald, PA
+22,"Arizona City, AZ",Arizona City, AZ
+23,"Arlington Heights, IL",Arlington Heights, IL
+24,"Arlington, TX",Arlington, TX
+25,"Arlington, VA",Arlington, VA
+26,"Armonk, NY",Armonk, NY
+27,"Arvada, CO",Arvada, CO
+28,"Ashburn, VA",Ashburn, VA
+29,"Aspen, CO",Aspen, CO
+30,"Athens, GA",Athens, GA
+31,"Atlanta, GA",Atlanta, GA
+32,"Atlanta, NY",Atlanta, NY
+33,"Auburn Hills, MI",Auburn Hills, MI
+34,"Augusta, GA",Augusta, GA
+35,"Aurora, CO",Aurora, CO
+36,"Austin, TX",Austin, TX
+37,"Azusa, CA",Azusa, CA
+38,"Bala Cynwyd, PA",Bala Cynwyd, PA
+39,"Ballston Spa, NY",Ballston Spa, NY
+40,"Baltimore, MD",Baltimore, MD
+41,"Basking Ridge, NJ",Basking Ridge, NJ
+42,"Baton Rouge, LA",Baton Rouge, LA
+43,"Beaverton, OR",Beaverton, OR
+44,"Bedford, MA",Bedford, MA
+45,"Belgium, WI",Belgium, WI
+46,"Bellevue, ID",Bellevue, ID
+47,"Bellevue, OH",Bellevue, OH
+48,"Bellevue, WA",Bellevue, WA
+49,"Belmont, CA",Belmont, CA
+50,"Beloit, WI",Beloit, WI
+51,"Bend, OR",Bend, OR
+52,"Bentonville, AR",Bentonville, AR
+53,"Bergenfield, NJ",Bergenfield, NJ
+54,"Berkeley Heights, NJ",Berkeley Heights, NJ
+55,"Berkeley, CA",Berkeley, CA
+56,"Berlin Center, OH",Berlin Center, OH
+57,"Berlin, CT",Berlin, CT
+58,"Berlin, GA",Berlin, GA
+59,"Berwyn, PA",Berwyn, PA
+60,"Bethesda, MD",Bethesda, MD
+61,"Beverly, MA",Beverly, MA
+62,"Birmingham, AL",Birmingham, AL
+63,"Bloomfield, CT",Bloomfield, CT
+64,"Bloomington, IL",Bloomington, IL
+65,"Bloomington, IN",Bloomington, IN
+66,"Bloomington, MN",Bloomington, MN
+67,"Boca Raton, FL",Boca Raton, FL
+68,"Boise, ID",Boise, ID
+69,"Bolivia, NC",Bolivia, NC
+70,"Boone, NC",Boone, NC
+71,"Bossier City, LA",Bossier City, LA
+72,"Boston, AR",Boston, AR
+73,"Boston, MA",Boston, MA
+74,"Bothell, WA",Bothell, WA
+75,"Boulder, CO",Boulder, CO
+76,"Bowling Green, OH",Bowling Green, OH
+77,"Boxborough, MA",Boxborough, MA
+78,"Bozeman, MT",Bozeman, MT
+79,"Brazil, IN",Brazil, IN
+80,"Brea, CA",Brea, CA
+81,"Bridgeport, CT",Bridgeport, CT
+82,"Bridgewater, NJ",Bridgewater, NJ
+83,"Bristol, CT",Bristol, CT
+84,"Brooklyn Park, MN",Brooklyn Park, MN
+85,"Brooklyn, NY",Brooklyn, NY
+86,"Broomfield, CO",Broomfield, CO
+87,"Buda, TX",Buda, TX
+88,"Buffalo Grove, IL",Buffalo Grove, IL
+89,"Buffalo, NY",Buffalo, NY
+90,"Burbank, CA",Burbank, CA
+91,"Burlingame, CA",Burlingame, CA
+92,"Burlington, MA",Burlington, MA
+93,"Burlington, VT",Burlington, VT
+94,"Burnsville, MN",Burnsville, MN
+95,"Butte, MT",Butte, MT
+96,"California City, CA",California City, CA
+97,"California Hot Springs, CA",California Hot Springs, CA
+98,"California, PA",California, PA
+99,"Camas, WA",Camas, WA
+100,"Cambridge, MA",Cambridge, MA
+101,"Campbell, CA",Campbell, CA
+102,"Canada, KY",Canada, KY
+103,"Canonsburg, PA",Canonsburg, PA
+104,"Cape Canaveral, FL",Cape Canaveral, FL
+105,"Cape Girardeau, MO",Cape Girardeau, MO
+106,"Carlsbad, CA",Carlsbad, CA
+107,"Carpinteria, CA",Carpinteria, CA
+108,"Cary, NC",Cary, NC
+109,"Cedar Rapids, IA",Cedar Rapids, IA
+110,"Centreville, VA",Centreville, VA
+111,"Champaign, IL",Champaign, IL
+112,"Chandler Heights, AZ",Chandler Heights, AZ
+113,"Chandler, AZ",Chandler, AZ
+114,"Chantilly, VA",Chantilly, VA
+115,"Chapel Hill, NC",Chapel Hill, NC
+116,"Charleston, SC",Charleston, SC
+117,"Charleston, WV",Charleston, WV
+118,"Charlotte, NC",Charlotte, NC
+119,"Charlottesville, VA",Charlottesville, VA
+120,"Chester Springs, PA",Chester Springs, PA
+121,"Cheyenne, WY",Cheyenne, WY
+122,"Chicago Heights, IL",Chicago Heights, IL
+123,"Chicago, IL",Chicago, IL
+124,"China, ME",China, ME
+125,"Cincinnati, OH",Cincinnati, OH
+126,"Claremont, CA",Claremont, CA
+127,"Claymont, DE",Claymont, DE
+128,"Clearfield, UT",Clearfield, UT
+129,"Clearwater, FL",Clearwater, FL
+130,"Cleveland, OH",Cleveland, OH
+131,"Clifton, NJ",Clifton, NJ
+132,"College Park, MD",College Park, MD
+133,"College Station, TX",College Station, TX
+134,"Collierville, TN",Collierville, TN
+135,"Colorado City, AZ",Colorado City, AZ
+136,"Colorado City, CO",Colorado City, CO
+137,"Colorado Springs, CO",Colorado Springs, CO
+138,"Columbia, MD",Columbia, MD
+139,"Columbia, MO",Columbia, MO
+140,"Columbia, SC",Columbia, SC
+141,"Columbus Grove, OH",Columbus Grove, OH
+142,"Columbus, GA",Columbus, GA
+143,"Columbus, IN",Columbus, IN
+144,"Columbus, OH",Columbus, OH
+145,"Concord, NC",Concord, NC
+146,"Coppell, TX",Coppell, TX
+147,"Corvallis, OR",Corvallis, OR
+148,"Costa Mesa, CA",Costa Mesa, CA
+149,"Covington, KY",Covington, KY
+150,"Crapo, MD",Crapo, MD
+151,"Culver City, CA",Culver City, CA
+152,"Cupertino, CA",Cupertino, CA
+153,"Cypress, CA",Cypress, CA
+154,"Dallas Center, IA",Dallas Center, IA
+155,"Dallas, TX",Dallas, TX
+156,"Daly City, CA",Daly City, CA
+157,"Davie, FL",Davie, FL
+158,"Dayton, OH",Dayton, OH
+159,"Dearborn Heights, MI",Dearborn Heights, MI
+160,"Dearborn, MI",Dearborn, MI
+161,"Deerfield Beach, FL",Deerfield Beach, FL
+162,"Deerfield, IL",Deerfield, IL
+163,"Delaware City, DE",Delaware City, DE
+164,"Denver City, TX",Denver City, TX
+165,"Denver, CO",Denver, CO
+166,"Des Moines, IA",Des Moines, IA
+167,"Detroit, ME",Detroit, ME
+168,"Detroit, MI",Detroit, MI
+169,"Dover, NH",Dover, NH
+170,"Downingtown, PA",Downingtown, PA
+171,"Draper, UT",Draper, UT
+172,"Dublin, CA",Dublin, CA
+173,"Dublin, GA",Dublin, GA
+174,"Dublin, IN",Dublin, IN
+175,"Dublin, NH",Dublin, NH
+176,"Dublin, OH",Dublin, OH
+177,"Dublin, PA",Dublin, PA
+178,"Dublin, TX",Dublin, TX
+179,"Dulles, VA",Dulles, VA
+180,"Duluth, GA",Duluth, GA
+181,"Durham, NC",Durham, NC
+182,"Eagan, MN",Eagan, MN
+183,"East Hartford, CT",East Hartford, CT
+184,"East Rutherford, NJ",East Rutherford, NJ
+185,"Eatontown, NJ",Eatontown, NJ
+186,"Eden Prairie, MN",Eden Prairie, MN
+187,"Edgewater, NJ",Edgewater, NJ
+188,"Edison, NJ",Edison, NJ
+189,"Egypt, AR",Egypt, AR
+190,"El Segundo, CA",El Segundo, CA
+191,"Elk Grove, CA",Elk Grove, CA
+192,"Elkridge, MD",Elkridge, MD
+193,"Ellicott City, MD",Ellicott City, MD
+194,"Emeryville, CA",Emeryville, CA
+195,"Endicott, NY",Endicott, NY
+196,"Englewood Cliffs, NJ",Englewood Cliffs, NJ
+197,"Englewood, CO",Englewood, CO
+198,"Eugene, OR",Eugene, OR
+199,"Evanston, IL",Evanston, IL
+200,"Everett, WA",Everett, WA
+201,"Exton, PA",Exton, PA
+202,"Fairfax Station, VA",Fairfax Station, VA
+203,"Fairfax, VA",Fairfax, VA
+204,"Fairfield, CT",Fairfield, CT
+205,"Fairmont, WV",Fairmont, WV
+206,"Fall River, MA",Fall River, MA
+207,"Falls Church, VA",Falls Church, VA
+208,"Fargo, ND",Fargo, ND
+209,"Farmington, CT",Farmington, CT
+210,"Farmington, UT",Farmington, UT
+211,"Fayetteville, NC",Fayetteville, NC
+212,"Florham Park, NJ",Florham Park, NJ
+213,"Florida, NY",Florida, NY
+214,"Folsom, CA",Folsom, CA
+215,"Fort Bragg, NC",Fort Bragg, NC
+216,"Fort Collins, CO",Fort Collins, CO
+217,"Fort George G Meade, MD",Fort George G Meade, MD
+218,"Fort Knox, KY",Fort Knox, KY
+219,"Fort Lauderdale, FL",Fort Lauderdale, FL
+220,"Fort Mill, SC",Fort Mill, SC
+221,"Fort Myers, FL",Fort Myers, FL
+222,"Fort Wayne, IN",Fort Wayne, IN
+223,"Fort Worth, TX",Fort Worth, TX
+224,"Foster City, CA",Foster City, CA
+225,"Fountain Inn, SC",Fountain Inn, SC
+226,"Framingham, MA",Framingham, MA
+227,"Frankford, DE",Frankford, DE
+228,"Franklin, TN",Franklin, TN
+229,"Franklin, WI",Franklin, WI
+230,"Frederick, MD",Frederick, MD
+231,"Fredericksburg, VA",Fredericksburg, VA
+232,"Fremont, CA",Fremont, CA
+233,"Fresno, CA",Fresno, CA
+234,"Friday Harbor, WA",Friday Harbor, WA
+235,"Frisco, TX",Frisco, TX
+236,"Fullerton, CA",Fullerton, CA
+237,"Fulton, MD",Fulton, MD
+238,"Gainesville, FL",Gainesville, FL
+239,"Gaithersburg, MD",Gaithersburg, MD
+240,"Garner, NC",Garner, NC
+241,"Georgiana, AL",Georgiana, AL
+242,"Germantown, IL",Germantown, IL
+243,"Germantown, MD",Germantown, MD
+244,"Gilbert, AZ",Gilbert, AZ
+245,"Gilroy, CA",Gilroy, CA
+246,"Glen Allen, VA",Glen Allen, VA
+247,"Glendale, CA",Glendale, CA
+248,"Goleta, CA",Goleta, CA
+249,"Goshen, IN",Goshen, IN
+250,"Grand Rapids, MI",Grand Rapids, MI
+251,"Greenville, SC",Greenville, SC
+252,"Greenville, TX",Greenville, TX
+253,"Greenwich, CT",Greenwich, CT
+254,"Greenwood Village, CO",Greenwood Village, CO
+255,"Hahira, GA",Hahira, GA
+256,"Hamilton, NJ",Hamilton, NJ
+257,"Hanover, MD",Hanover, MD
+258,"Harrisburg, PA",Harrisburg, PA
+259,"Hartford, CT",Hartford, CT
+260,"Hauppauge, NY",Hauppauge, NY
+261,"Hawaiian Gardens, CA",Hawaiian Gardens, CA
+262,"Hawthorne, CA",Hawthorne, CA
+263,"Hayward, CA",Hayward, CA
+264,"Hazelwood, MO",Hazelwood, MO
+265,"Helena, MT",Helena, MT
+266,"Hermitage, TN",Hermitage, TN
+267,"Herndon, VA",Herndon, VA
+268,"Hiawatha, IA",Hiawatha, IA
+269,"Highland Park, NJ",Highland Park, NJ
+270,"Hilbert, WI",Hilbert, WI
+271,"Hillsboro, OH",Hillsboro, OH
+272,"Hillsboro, OR",Hillsboro, OR
+273,"Hoboken, NJ",Hoboken, NJ
+274,"Hoffman Estates, IL",Hoffman Estates, IL
+275,"Hollywood, CA",Hollywood, CA
+276,"Holmdel, NJ",Holmdel, NJ
+277,"Holtsville, NY",Holtsville, NY
+278,"Honolulu, HI",Honolulu, HI
+279,"Hopewell Junction, NY",Hopewell Junction, NY
+280,"Hopewell, NJ",Hopewell, NJ
+281,"Hopkinton, MA",Hopkinton, MA
+282,"Horsham, PA",Horsham, PA
+283,"Houston, TX",Houston, TX
+284,"Hudson, MA",Hudson, MA
+285,"Hudson, NH",Hudson, NH
+286,"Hunt Valley, MD",Hunt Valley, MD
+287,"Huntington Beach, CA",Huntington Beach, CA
+288,"Huntsville, AL",Huntsville, AL
+289,"Illinois City, IL",Illinois City, IL
+290,"Indian Lake, NY",Indian Lake, NY
+291,"Indiana, PA",Indiana, PA
+292,"Indianapolis, IN",Indianapolis, IN
+293,"Inwood, WV",Inwood, WV
+294,"Iowa City, IA",Iowa City, IA
+295,"Ireland, IN",Ireland, IN
+296,"Irvine, CA",Irvine, CA
+297,"Irvine, PA",Irvine, PA
+298,"Irving, TX",Irving, TX
+299,"Iselin, NJ",Iselin, NJ
+300,"Issaquah, WA",Issaquah, WA
+301,"Italy, TX",Italy, TX
+302,"Jacksonville, FL",Jacksonville, FL
+303,"Jamaica Beach, TX",Jamaica Beach, TX
+304,"Jersey City, NJ",Jersey City, NJ
+305,"Johnson City, TN",Johnson City, TN
+306,"Johnston, IA",Johnston, IA
+307,"Johnston, RI",Johnston, RI
+308,"Kalamazoo, MI",Kalamazoo, MI
+309,"Kaneohe, HI",Kaneohe, HI
+310,"Kansas City, KS",Kansas City, KS
+311,"Kansas City, MO",Kansas City, MO
+312,"Kent, WA",Kent, WA
+313,"King of Prussia, PA",King of Prussia, PA
+314,"Kirkland, WA",Kirkland, WA
+315,"Kokomo, IN",Kokomo, IN
+316,"La Canada Flintridge, CA",La Canada Flintridge, CA
+317,"La Crosse, WI",La Crosse, WI
+318,"La Jolla, CA",La Jolla, CA
+319,"Lafayette, LA",Lafayette, LA
+320,"Lake Charles, LA",Lake Charles, LA
+321,"Lake Forest, CA",Lake Forest, CA
+322,"Lake Mary, FL",Lake Mary, FL
+323,"Lake Saint Louis, MO",Lake Saint Louis, MO
+324,"Langhorne, PA",Langhorne, PA
+325,"Lansing, MI",Lansing, MI
+326,"Las Vegas, NV",Las Vegas, NV
+327,"Layton, UT",Layton, UT
+328,"Lebanon, NH",Lebanon, NH
+329,"Lehi, UT",Lehi, UT
+330,"Lenexa, KS",Lenexa, KS
+331,"Lexington Park, MD",Lexington Park, MD
+332,"Lexington, KY",Lexington, KY
+333,"Lindon, UT",Lindon, UT
+334,"Linthicum Heights, MD",Linthicum Heights, MD
+335,"Littleton, CO",Littleton, CO
+336,"Littleton, MA",Littleton, MA
+337,"Livermore, CA",Livermore, CA
+338,"Liverpool, NY",Liverpool, NY
+339,"London Mills, IL",London Mills, IL
+340,"London, KY",London, KY
+341,"London, OH",London, OH
+342,"London, WV",London, WV
+343,"Londonderry, OH",Londonderry, OH
+344,"Londonderry, VT",Londonderry, VT
+345,"Long Beach, CA",Long Beach, CA
+346,"Longmont, CO",Longmont, CO
+347,"Los Alamitos, CA",Los Alamitos, CA
+348,"Los Altos, CA",Los Altos, CA
+349,"Los Angeles, CA",Los Angeles, CA
+350,"Los Gatos, CA",Los Gatos, CA
+351,"Louisville, CO",Louisville, CO
+352,"Louisville, KY",Louisville, KY
+353,"Loveland, CO",Loveland, CO
+354,"Lynn, MA",Lynn, MA
+355,"Madison, WI",Madison, WI
+356,"Mahwah, NJ",Mahwah, NJ
+357,"Malmo, NE",Malmo, NE
+358,"Malvern, PA",Malvern, PA
+359,"Manassas, VA",Manassas, VA
+360,"Manchester, NH",Manchester, NH
+361,"Manhattan Beach, CA",Manhattan Beach, CA
+362,"Manhattan, NY",Manhattan, NY
+363,"Maple Shade, NJ",Maple Shade, NJ
+364,"Marietta, GA",Marietta, GA
+365,"Marlborough, MA",Marlborough, MA
+366,"Martinsburg, WV",Martinsburg, WV
+367,"Maryland Heights, MO",Maryland Heights, MO
+368,"Mason, OH",Mason, OH
+369,"Mc Lean, VA",Mc Lean, VA
+370,"Mckinney, TX",Mckinney, TX
+371,"McLean, NE",McLean, NE
+372,"McLean, TX",McLean, TX
+373,"Mechanicsburg, PA",Mechanicsburg, PA
+374,"Melbourne, FL",Melbourne, FL
+375,"Memphis, TN",Memphis, TN
+376,"Menlo Park, CA",Menlo Park, CA
+377,"Menomonee Falls, WI",Menomonee Falls, WI
+378,"Menomonie, WI",Menomonie, WI
+379,"Meriden, CT",Meriden, CT
+380,"Merrimack, NH",Merrimack, NH
+381,"Mesa, AZ",Mesa, AZ
+382,"Miami Beach, FL",Miami Beach, FL
+383,"Miami, FL",Miami, FL
+384,"Michigan Center, MI",Michigan Center, MI
+385,"Middletown, NJ",Middletown, NJ
+386,"Midvale, UT",Midvale, UT
+387,"Milford, MI",Milford, MI
+388,"Mill Valley, CA",Mill Valley, CA
+389,"Milpitas, CA",Milpitas, CA
+390,"Milwaukee, WI",Milwaukee, WI
+391,"Minneapolis, MN",Minneapolis, MN
+392,"Minnesota City, MN",Minnesota City, MN
+393,"Minnetonka, MN",Minnetonka, MN
+394,"Miramar, FL",Miramar, FL
+395,"Mississippi State, MS",Mississippi State, MS
+396,"Missouri City, MO",Missouri City, MO
+397,"Mobile, AL",Mobile, AL
+398,"Moline, IL",Moline, IL
+399,"Monroe, LA",Monroe, LA
+400,"Monterey, CA",Monterey, CA
+401,"Montreal, MO",Montreal, MO
+402,"Montvale, NJ",Montvale, NJ
+403,"Monument, CO",Monument, CO
+404,"Moorestown, NJ",Moorestown, NJ
+405,"Morgantown, WV",Morgantown, WV
+406,"Morris Plains, NJ",Morris Plains, NJ
+407,"Morristown, NJ",Morristown, NJ
+408,"Morrisville, NC",Morrisville, NC
+409,"Moscow Mills, MO",Moscow Mills, MO
+410,"Moscow, ID",Moscow, ID
+411,"Moscow, PA",Moscow, PA
+412,"Mount Laurel, NJ",Mount Laurel, NJ
+413,"Mountain View, AR",Mountain View, AR
+414,"Mountain View, CA",Mountain View, CA
+415,"Mountain View, MO",Mountain View, MO
+416,"Munich, ND",Munich, ND
+417,"Murfreesboro, TN",Murfreesboro, TN
+418,"Murray Hill, NJ",Murray Hill, NJ
+419,"Murray, UT",Murray, UT
+420,"Naperville, IL",Naperville, IL
+421,"Naples, FL",Naples, FL
+422,"Nashua, NH",Nashua, NH
+423,"Nashville, TN",Nashville, TN
+424,"Natick, MA",Natick, MA
+425,"Nebraska City, NE",Nebraska City, NE
+426,"Needham Heights, MA",Needham Heights, MA
+427,"Needham, MA",Needham, MA
+428,"New Braunfels, TX",New Braunfels, TX
+429,"New Brunswick, NJ",New Brunswick, NJ
+430,"New City, NY",New City, NY
+431,"New Hampton, NH",New Hampton, NH
+432,"New Haven, CT",New Haven, CT
+433,"New Orleans, LA",New Orleans, LA
+434,"New Providence, NJ",New Providence, NJ
+435,"New York Mills, MN",New York Mills, MN
+436,"New York Mills, NY",New York Mills, NY
+437,"New York, NY",New York, NY
+438,"Newark, CA",Newark, CA
+439,"Newark, DE",Newark, DE
+440,"Newark, NJ",Newark, NJ
+441,"Newport Beach, CA",Newport Beach, CA
+442,"Newport News, VA",Newport News, VA
+443,"Newton, MA",Newton, MA
+444,"Newtown Square, PA",Newtown Square, PA
+445,"Norfolk, VA",Norfolk, VA
+446,"North Charleston, SC",North Charleston, SC
+447,"North Haven, CT",North Haven, CT
+448,"North Houston, TX",North Houston, TX
+449,"North Reading, MA",North Reading, MA
+450,"Northbrook, IL",Northbrook, IL
+451,"Northridge, CA",Northridge, CA
+452,"Norwalk, CT",Norwalk, CT
+453,"O Fallon, MO",O Fallon, MO
+454,"Oakland, CA",Oakland, CA
+455,"Ogden, UT",Ogden, UT
+456,"Ohio City, OH",Ohio City, OH
+457,"Oklahoma City, OK",Oklahoma City, OK
+458,"Olathe, KS",Olathe, KS
+459,"Oldsmar, FL",Oldsmar, FL
+460,"Omaha, NE",Omaha, NE
+461,"Ontario, CA",Ontario, CA
+462,"Orange, CA",Orange, CA
+463,"Oregon City, OR",Oregon City, OR
+464,"Oregon, OH",Oregon, OH
+465,"Orlando, FL",Orlando, FL
+466,"Overland Park, KS",Overland Park, KS
+467,"Owego, NY",Owego, NY
+468,"Owings Mills, MD",Owings Mills, MD
+469,"Oxford, MS",Oxford, MS
+470,"Palm Bay, FL",Palm Bay, FL
+471,"Palm Beach, FL",Palm Beach, FL
+472,"Palm Springs, CA",Palm Springs, CA
+473,"Palmdale, CA",Palmdale, CA
+474,"Palo Alto, CA",Palo Alto, CA
+475,"Paris, IL",Paris, IL
+476,"Parker, CO",Parker, CO
+477,"Parsippany, NJ",Parsippany, NJ
+478,"Pasadena, CA",Pasadena, CA
+479,"Pascagoula, MS",Pascagoula, MS
+480,"Paterson, NJ",Paterson, NJ
+481,"Peachtree City, GA",Peachtree City, GA
+482,"Pelham, NH",Pelham, NH
+483,"Pennington, NJ",Pennington, NJ
+484,"Pennsylvania Furnace, PA",Pennsylvania Furnace, PA
+485,"Pensacola, FL",Pensacola, FL
+486,"Peterborough, NH",Peterborough, NH
+487,"Philadelphia, PA",Philadelphia, PA
+488,"Phoenix, AZ",Phoenix, AZ
+489,"Piscataway, NJ",Piscataway, NJ
+490,"Pittsburg, CA",Pittsburg, CA
+491,"Pittsburgh, PA",Pittsburgh, PA
+492,"Placerville, CA",Placerville, CA
+493,"Plano, TX",Plano, TX
+494,"Plantation Acres, FL",Plantation Acres, FL
+495,"Pleasanton, CA",Pleasanton, CA
+496,"Plymouth Meeting, PA",Plymouth Meeting, PA
+497,"Plymouth, MA",Plymouth, MA
+498,"Plymouth, MI",Plymouth, MI
+499,"Plymouth, MN",Plymouth, MN
+500,"Point Richmond, CA",Point Richmond, CA
+501,"Poland, IN",Poland, IN
+502,"Pontiac, MI",Pontiac, MI
+503,"Portland, ME",Portland, ME
+504,"Portland, OR",Portland, OR
+505,"Portsmouth, NH",Portsmouth, NH
+506,"Portsmouth, RI",Portsmouth, RI
+507,"Poughkeepsie, NY",Poughkeepsie, NY
+508,"Poway, CA",Poway, CA
+509,"Princeton, NJ",Princeton, NJ
+510,"Prineville, OR",Prineville, OR
+511,"Providence, RI",Providence, RI
+512,"Provo, UT",Provo, UT
+513,"Purchase, NY",Purchase, NY
+514,"Rahway, NJ",Rahway, NJ
+515,"Raleigh, NC",Raleigh, NC
+516,"Raleigh, ND",Raleigh, ND
+517,"Raritan, NJ",Raritan, NJ
+518,"Redlands, CA",Redlands, CA
+519,"Redmond, UT",Redmond, UT
+520,"Redmond, WA",Redmond, WA
+521,"Redondo Beach, CA",Redondo Beach, CA
+522,"Redwood City, CA",Redwood City, CA
+523,"Reedsville, PA",Reedsville, PA
+524,"Reidsville, NC",Reidsville, NC
+525,"Reno, NV",Reno, NV
+526,"Renton, WA",Renton, WA
+527,"Reston, VA",Reston, VA
+528,"Rialto, CA",Rialto, CA
+529,"Richardson, TX",Richardson, TX
+530,"Richmond, CA",Richmond, CA
+531,"Richmond, VA",Richmond, VA
+532,"Ridgefield Park, NJ",Ridgefield Park, NJ
+533,"Ridley Park, PA",Ridley Park, PA
+534,"Rio Rancho, NM",Rio Rancho, NM
+535,"Roanoke, TX",Roanoke, TX
+536,"Rochester, MN",Rochester, MN
+537,"Rochester, NY",Rochester, NY
+538,"Rockford, IL",Rockford, IL
+539,"Rocklin, CA",Rocklin, CA
+540,"Rockville, MD",Rockville, MD
+541,"Rogers, AR",Rogers, AR
+542,"Rolling Meadows, IL",Rolling Meadows, IL
+543,"Rome, NY",Rome, NY
+544,"Roseland, NJ",Roseland, NJ
+545,"Roseville, CA",Roseville, CA
+546,"Roseville, MN",Roseville, MN
+547,"Roswell, GA",Roswell, GA
+548,"Round Rock, TX",Round Rock, TX
+549,"Roy, UT",Roy, UT
+550,"Sabinsville, PA",Sabinsville, PA
+551,"Sacramento, CA",Sacramento, CA
+552,"Sacramento, PA",Sacramento, PA
+553,"Saint Charles, MO",Saint Charles, MO
+554,"Saint Louis, MI",Saint Louis, MI
+555,"Saint Paul, MN",Saint Paul, MN
+556,"Saint Peters, MO",Saint Peters, MO
+557,"Saint Petersburg, FL",Saint Petersburg, FL
+558,"Salt Lake City, UT",Salt Lake City, UT
+559,"Sammamish, WA",Sammamish, WA
+560,"San Antonio, TX",San Antonio, TX
+561,"San Bruno, CA",San Bruno, CA
+562,"San Carlos, CA",San Carlos, CA
+563,"San Diego, CA",San Diego, CA
+564,"San Diego, TX",San Diego, TX
+565,"San Dimas, CA",San Dimas, CA
+566,"San Fernando, CA",San Fernando, CA
+567,"San Francisco, CA",San Francisco, CA
+568,"San Jose, CA",San Jose, CA
+569,"San Jose, IL",San Jose, IL
+570,"San Juan Bautista, CA",San Juan Bautista, CA
+571,"San Leandro, CA",San Leandro, CA
+572,"San Luis Obispo, CA",San Luis Obispo, CA
+573,"San Marcos, CA",San Marcos, CA
+574,"San Mateo, CA",San Mateo, CA
+575,"San Mateo, FL",San Mateo, FL
+576,"San Rafael, CA",San Rafael, CA
+577,"San Ramon, CA",San Ramon, CA
+578,"Sandisfield, MA",Sandisfield, MA
+579,"Sandy, UT",Sandy, UT
+580,"Santa Barbara, CA",Santa Barbara, CA
+581,"Santa Clara, CA",Santa Clara, CA
+582,"Santa Clarita, CA",Santa Clarita, CA
+583,"Santa Cruz, CA",Santa Cruz, CA
+584,"Santa Maria, CA",Santa Maria, CA
+585,"Santa Monica, CA",Santa Monica, CA
+586,"Santa Rosa Beach, FL",Santa Rosa Beach, FL
+587,"Santa Rosa, CA",Santa Rosa, CA
+588,"Sarasota, FL",Sarasota, FL
+589,"Saratoga Springs, NY",Saratoga Springs, NY
+590,"Schaumburg, IL",Schaumburg, IL
+591,"Schenectady, NY",Schenectady, NY
+592,"Scottsdale, AZ",Scottsdale, AZ
+593,"Seabrook, NH",Seabrook, NH
+594,"Seal Beach, CA",Seal Beach, CA
+595,"Seattle, WA",Seattle, WA
+596,"Secaucus, NJ",Secaucus, NJ
+597,"Shawnee Mission, KS",Shawnee Mission, KS
+598,"Shelton, CT",Shelton, CT
+599,"Shevlin, MN",Shevlin, MN
+600,"Shingle Springs, CA",Shingle Springs, CA
+601,"Shreveport, LA",Shreveport, LA
+602,"Silver Spring, MD",Silver Spring, MD
+603,"Simsbury, CT",Simsbury, CT
+604,"Skillman, NJ",Skillman, NJ
+605,"Smithfield, RI",Smithfield, RI
+606,"Snoqualmie, WA",Snoqualmie, WA
+607,"Somerville, MA",Somerville, MA
+608,"Sorrento, FL",Sorrento, FL
+609,"South Bend, IN",South Bend, IN
+610,"South Jordan, UT",South Jordan, UT
+611,"South San Francisco, CA",South San Francisco, CA
+612,"Southbury, CT",Southbury, CT
+613,"Southlake, TX",Southlake, TX
+614,"Sparks, NV",Sparks, NV
+615,"Spokane, WA",Spokane, WA
+616,"Spring, TX",Spring, TX
+617,"Springfield, VA",Springfield, VA
+618,"St Paul, MN",St Paul, MN
+619,"St. Louis, MO",St. Louis, MO
+620,"St. Petersburg, FL",St. Petersburg, FL
+621,"Stamford, CT",Stamford, CT
+622,"Sterling, VA",Sterling, VA
+623,"Steubenville, OH",Steubenville, OH
+624,"Stratford, CT",Stratford, CT
+625,"Suffolk, VA",Suffolk, VA
+626,"Sugar Land, TX",Sugar Land, TX
+627,"Suitland, MD",Suitland, MD
+628,"Summit, NJ",Summit, NJ
+629,"Sumner, WA",Sumner, WA
+630,"Sunnyvale, CA",Sunnyvale, CA
+631,"Sunnyvale, TX",Sunnyvale, TX
+632,"Sunrise, FL",Sunrise, FL
+633,"Suwanee, GA",Suwanee, GA
+634,"Syracuse, NY",Syracuse, NY
+635,"Tacoma, WA",Tacoma, WA
+636,"Tampa, FL",Tampa, FL
+637,"Taunton, MA",Taunton, MA
+638,"Teaneck, NJ",Teaneck, NJ
+639,"Tel Aviv, Israel",Tel Aviv, Israel
+640,"Temecula, CA",Temecula, CA
+641,"Tempe, AZ",Tempe, AZ
+642,"Temple, TX",Temple, TX
+643,"Tewksbury, MA",Tewksbury, MA
+644,"Texas City, TX",Texas City, TX
+645,"Thornton, CO",Thornton, CO
+646,"Thousand Oaks, CA",Thousand Oaks, CA
+647,"Titusville, NJ",Titusville, NJ
+648,"Toledo, OH",Toledo, OH
+649,"Toronto, OH",Toronto, OH
+650,"Torrance, CA",Torrance, CA
+651,"Tracy, CA",Tracy, CA
+652,"Traverse City, MI",Traverse City, MI
+653,"Trenton, NJ",Trenton, NJ
+654,"Troy, MI",Troy, MI
+655,"Trumbull, CT",Trumbull, CT
+656,"Tualatin, OR",Tualatin, OR
+657,"Tucson, AZ",Tucson, AZ
+658,"Tulsa, OK",Tulsa, OK
+659,"Tustin, CA",Tustin, CA
+660,"Urbandale, IA",Urbandale, IA
+661,"Vacaville, CA",Vacaville, CA
+662,"Valdosta, GA",Valdosta, GA
+663,"Van Nuys, CA",Van Nuys, CA
+664,"Vancouver, WA",Vancouver, WA
+665,"Venice, CA",Venice, CA
+666,"Vermont, IL",Vermont, IL
+667,"Verona, WI",Verona, WI
+668,"Vienna, VA",Vienna, VA
+669,"Virgilina, VA",Virgilina, VA
+670,"Virginia Beach, VA",Virginia Beach, VA
+671,"Walnut Creek, CA",Walnut Creek, CA
+672,"Waltham, MA",Waltham, MA
+673,"Warren, MI",Warren, MI
+674,"Warren, NJ",Warren, NJ
+675,"Warrenville, IL",Warrenville, IL
+676,"Washington, DC",Washington, DC
+677,"Washington, VA",Washington, VA
+678,"Waterloo, AL",Waterloo, AL
+679,"Watertown, MA",Watertown, MA
+680,"Waukegan, IL",Waukegan, IL
+681,"Waukesha, WI",Waukesha, WI
+682,"Wausau, WI",Wausau, WI
+683,"Wayne, NJ",Wayne, NJ
+684,"Wayne, PA",Wayne, PA
+685,"Wellesley, MA",Wellesley, MA
+686,"West Chester, OH",West Chester, OH
+687,"West Chester, PA",West Chester, PA
+688,"West Hollywood, CA",West Hollywood, CA
+689,"West McLean, VA",West McLean, VA
+690,"West Orange, NJ",West Orange, NJ
+691,"West Palm Beach, FL",West Palm Beach, FL
+692,"West Valley City, UT",West Valley City, UT
+693,"Westborough, MA",Westborough, MA
+694,"Westerville, OH",Westerville, OH
+695,"Westford, MA",Westford, MA
+696,"Westminster, CO",Westminster, CO
+697,"Weston, FL",Weston, FL
+698,"Westport, CT",Westport, CT
+699,"Whippany, NJ",Whippany, NJ
+700,"White Plains, NY",White Plains, NY
+701,"Whitehouse Station, NJ",Whitehouse Station, NJ
+702,"Wichita, KS",Wichita, KS
+703,"Wilmington, DE",Wilmington, DE
+704,"Wilmington, MA",Wilmington, MA
+705,"Wilmington, NC",Wilmington, NC
+706,"Wilsonville, OR",Wilsonville, OR
+707,"Wilton, CT",Wilton, CT
+708,"Windsor Locks, CT",Windsor Locks, CT
+709,"Windsor, CT",Windsor, CT
+710,"Winston Salem, NC",Winston Salem, NC
+711,"Woodland Hills, CA",Woodland Hills, CA
+712,"Woonsocket, RI",Woonsocket, RI
+713,"Worcester, MA",Worcester, MA
+714,"York, PA",York, PA
+715,"Yorktown Heights, NY",Yorktown Heights, NY
+716,"Yulee, FL",Yulee, FL
